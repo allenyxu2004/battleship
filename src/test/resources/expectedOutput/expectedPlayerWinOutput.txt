@@ -1,0 +1,211 @@
+Hello! Welcome to the OOD BattleSalvo Game!
+Please enter a valid height and width below:
+--------------------------------------------------
+--------------------------------------------------
+Uh Oh! You've entered invalid dimensions. Please remember that the height and width
+of the game must be in the range (6, 15), inclusive. Try again!
+--------------------------------------------------
+--------------------------------------------------
+Uh Oh! You've entered invalid dimensions. Please remember that the height and width
+of the game must be in the range (6, 15), inclusive. Try again!
+--------------------------------------------------
+--------------------------------------------------
+Uh Oh! You've entered invalid dimensions. Please remember that the height and width
+of the game must be in the range (6, 15), inclusive. Try again!
+--------------------------------------------------
+--------------------------------------------------
+Please enter your fleet in the order [Carrier, Battleship, Destroyer, Submarine].
+Remember, your fleet may not exceed size 6.
+--------------------------------------------------
+--------------------------------------------------
+Uh Oh! You've entered invalid fleet sizes.
+Please enter your fleet in the order [Carrier, Battleship, Destroyer, Submarine].
+Remember, your fleet may not exceed size 6.
+--------------------------------------------------
+--------------------------------------------------
+Opponent Board Data:
+  | 0 1 2 3 4 5
+----------------
+0 | _ _ _ _ _ _
+1 | _ _ _ _ _ _
+2 | _ _ _ _ _ _
+3 | _ _ _ _ _ _
+4 | _ _ _ _ _ _
+5 | _ _ _ _ _ _
+
+Your Board:
+  | 0 1 2 3 4 5
+----------------
+0 | _ _ _ _ C _
+1 | D _ S _ C B
+2 | D _ S _ C B
+3 | D _ S _ C B
+4 | D _ _ _ C B
+5 | _ _ _ _ C B
+
+Please Enter 4 Shots (x, y) [Convert hex to decimal]:
+--------------------------------------------------
+--------------------------------------------------
+Please enter shots that have not been taken or/and shots that are within the board dimension.
+4 Shots Left:
+--------------------------------------------------
+--------------------------------------------------
+Opponent Board Data:
+  | 0 1 2 3 4 5
+----------------
+0 | . . * . _ _
+1 | _ _ _ _ _ _
+2 | _ _ _ _ _ _
+3 | _ _ _ _ _ _
+4 | _ _ _ _ _ _
+5 | _ _ _ _ _ _
+
+Your Board:
+  | 0 1 2 3 4 5
+----------------
+0 | _ _ _ _ C _
+1 | D _ S _ C B
+2 | * _ S _ C B
+3 | D _ S _ C B
+4 | D _ . _ C *
+5 | _ . _ _ C B
+
+Please Enter 4 Shots (x, y) [Convert hex to decimal]:
+--------------------------------------------------
+--------------------------------------------------
+Opponent Board Data:
+  | 0 1 2 3 4 5
+----------------
+0 | . . / . _ _
+1 | _ _ / _ _ _
+2 | _ _ / _ _ _
+3 | _ _ / _ _ _
+4 | _ _ / _ _ _
+5 | _ _ _ _ _ _
+
+Your Board:
+  | 0 1 2 3 4 5
+----------------
+0 | _ _ _ _ C _
+1 | D _ S _ C B
+2 | * . S _ C B
+3 | D _ S _ C B
+4 | D . . . C *
+5 | _ . . _ C B
+
+Please Enter 4 Shots (x, y) [Convert hex to decimal]:
+--------------------------------------------------
+--------------------------------------------------
+Opponent Board Data:
+  | 0 1 2 3 4 5
+----------------
+0 | . . / . _ _
+1 | _ _ / . _ _
+2 | _ _ / _ * _
+3 | _ _ / _ _ *
+4 | _ _ / _ _ _
+5 | _ _ _ _ _ *
+
+Your Board:
+  | 0 1 2 3 4 5
+----------------
+0 | _ _ . _ C .
+1 | D _ S _ C B
+2 | * . S _ C B
+3 | D _ S _ * B
+4 | D . . . C *
+5 | _ . . _ C B
+
+Please Enter 4 Shots (x, y) [Convert hex to decimal]:
+--------------------------------------------------
+--------------------------------------------------
+Opponent Board Data:
+  | 0 1 2 3 4 5
+----------------
+0 | . . / . _ _
+1 | _ _ / . * .
+2 | _ _ / _ * /
+3 | _ _ / _ _ /
+4 | _ _ / _ _ /
+5 | _ _ _ _ _ /
+
+Your Board:
+  | 0 1 2 3 4 5
+----------------
+0 | . . . _ C .
+1 | D _ S _ C *
+2 | * . S _ C B
+3 | D _ S _ * B
+4 | D . . . C *
+5 | _ . . _ C B
+
+Please Enter 4 Shots (x, y) [Convert hex to decimal]:
+--------------------------------------------------
+--------------------------------------------------
+Opponent Board Data:
+  | 0 1 2 3 4 5
+----------------
+0 | . . / . / _
+1 | _ _ / . / .
+2 | _ _ / _ / /
+3 | _ _ / _ / /
+4 | _ _ / _ / /
+5 | _ _ _ _ / /
+
+Your Board:
+  | 0 1 2 3 4 5
+----------------
+0 | . . . _ C .
+1 | D _ S _ C *
+2 | * . S _ C B
+3 | * _ S _ * B
+4 | * . . . C *
+5 | _ . . _ C B
+
+Please Enter 4 Shots (x, y) [Convert hex to decimal]:
+--------------------------------------------------
+--------------------------------------------------
+Opponent Board Data:
+  | 0 1 2 3 4 5
+----------------
+0 | . . / . / _
+1 | _ _ / . / .
+2 | _ _ / _ / /
+3 | . _ / _ / /
+4 | _ . / _ / /
+5 | . _ * _ / /
+
+Your Board:
+  | 0 1 2 3 4 5
+----------------
+0 | . . . _ C .
+1 | D _ S _ C *
+2 | * . S _ C B
+3 | * _ S _ * B
+4 | * . . . C *
+5 | _ . . . C B
+
+Please Enter 4 Shots (x, y) [Convert hex to decimal]:
+--------------------------------------------------
+--------------------------------------------------
+Opponent Board Data:
+  | 0 1 2 3 4 5
+----------------
+0 | . . / . / _
+1 | _ _ / . / .
+2 | _ _ / _ / /
+3 | . _ / . / /
+4 | _ . / . / /
+5 | . / / / / /
+
+Your Board:
+  | 0 1 2 3 4 5
+----------------
+0 | . . . _ C .
+1 | / _ S _ C *
+2 | / . S _ C B
+3 | / _ S _ * B
+4 | / . . . C *
+5 | _ . . . C B
+
+You win!
